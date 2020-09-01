@@ -1,0 +1,24 @@
+body {
+    background-image: #CCC;
+    height: 10000px;
+}
+
+.card .card-header {
+    background-image: linear-gradient(to right, rgb(51, 63, 63), rgb(212, 202, 200));
+    color: #FFF;
+}
+
+.save-btn {
+    background-image: linear-gradient(to right, rgb(51, 63, 63), rgb(212, 202, 200));
+    color: #FFF;
+    border: none;
+}
+
+.error-email {
+    color: red;
+}
+
+.error-input-email,
+.error-input-password {
+    border: 1px solid red;
+}
